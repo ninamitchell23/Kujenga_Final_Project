@@ -1,13 +1,13 @@
 # Karamoja Global Acute Malnutrition (GAM) Analysis
 
 ## Overview
-This project analyzes trends in Global Acute Malnutrition (GAM) across nine aid-receiving districts in Karamoja, Uganda, between 2023 and 2025. The objective is to determine whether GAM rates have decreased over time.
+The objective is to determine whether GAM rates have decreased between 2023 and 2025.
 
 ## Data Source
 The dataset was extracted from official Integrated Food Security Phase Classification (IPC) reports:
 
-- Karamoja Acute Malnutrition Report (Feb 2023 – Jan 2024)  
-- Karamoja Acute Malnutrition Report (Mar 2024 – Feb 2025)
+* [IPC Uganda Karamoja Acute Malnutrition Report (February 2023 – January 2024)](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156424/)
+* [IPC Uganda Karamoja Acute Malnutrition Report (March 2024 – February 2025)](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1157054/)
 
 ## Study Area
 The analysis covers nine districts in Karamoja:
