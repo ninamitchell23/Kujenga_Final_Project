@@ -25,4 +25,7 @@ Global Acute Malnutrition (GAM) refers to the **percentage of children aged 6–
 - View the notebook directly on GitHub (renders automatically)
 - Or clone the repository and run locally:
   ```bash
-  git clone <repo-url>
+  git clone https://github.com/ninamitchell23/Kujenga_Final_Project.git
+- Or run this kaggle notebook:
+  ```bash
+  https://www.kaggle.com/code/mitchellabonyo/nina-mitchell-abonyo-uganda-finalproject
