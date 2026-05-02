@@ -1,6 +1,6 @@
 # Karamoja Global Acute Malnutrition (GAM) Analysis
 
-## Overview
+
 The objective is to determine whether GAM rates have decreased between 2023 and 2025.
 
 ## Data Source
