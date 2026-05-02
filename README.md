@@ -1,7 +1,7 @@
 # Karamoja Global Acute Malnutrition (GAM) Analysis
 
 
-The objective is to determine whether GAM rates have decreased between 2023 and 2025.
+The objective is to determine whether GAM rates have decreased between 2023 and 2025 in the Karamoja Sub-region of Uganda.
 
 ## Data Source
 The dataset was extracted from official Integrated Food Security Phase Classification (IPC) reports:
